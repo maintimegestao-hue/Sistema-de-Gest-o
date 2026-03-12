@@ -1,0 +1,16 @@
+project_id = "umrkqohjbhcrxvnvvvli"
+
+[functions.create-checkout-session]
+verify_jwt = false
+
+[functions.check-subscription]
+verify_jwt = false
+
+[functions.customer-portal]
+verify_jwt = false
+
+[functions.get-client-service-calls]
+verify_jwt = false
+
+[functions.create-service-call]
+verify_jwt = false
